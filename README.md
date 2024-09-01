@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me
 
 
-![til]([https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png](https://i.pinimg.com/originals/93/59/49/9359496444ec55268c86ddfcec28ee4c.gif))
+![til]((https://i.pinimg.com/originals/93/59/49/9359496444ec55268c86ddfcec28ee4c.gif))
 
 
 - 🔭 I’m currently working on ...
