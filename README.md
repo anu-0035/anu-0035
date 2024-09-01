@@ -1,7 +1,28 @@
 ## Hi there 👋 It's me
 
-
-![til]((https://i.pinimg.com/originals/93/59/49/9359496444ec55268c86ddfcec28ee4c.gif))
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .banner {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+    <title>GitHub Banner</title>
+</head>
+<body>
+    <div class="banner">
+        Welcome to My GitHub Repository
+    </div>
+</body>
+</html>
 
 
 - 🔭 I’m currently working on ...
