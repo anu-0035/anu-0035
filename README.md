@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me
 
 
-
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 
 
 - 🔭 I’m currently working on ...
