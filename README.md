@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me
 
-![Banner](![image](https://github.com/user-attachments/assets/4c33e378-6d70-4c84-b789-628fead54ae9)
-![Welcome to My GitHub Repository](assets/banner-image.png)
+
 
 
 
